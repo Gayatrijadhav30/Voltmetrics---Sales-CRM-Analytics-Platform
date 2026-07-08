@@ -57,15 +57,6 @@ Relationships follow standard one-to-many foreign key joins (`ProductKey`, `Cust
 **4. Customer Details Overview** — Demographic and behavioural analysis: spend trends by year, gender and age-group splits, and customer-level revenue tables, filterable by country and quarter.
 
 ---
-
-## 🤝 Salesforce CRM
-
-- **Customer Segmentation & Lifetime Value Dashboard** — segments 32+ customers into High-Value, Medium-Value, Repeat, and One-Time buyer groups, with average spend and top-10 LTV rankings.
-- **Marketing Campaigns** — three targeted campaigns (Q3 Promo for High-Value customers, Loyalty Booster for Repeat buyers, Come Back Offer for One-Time buyers), each with tracked contact reach and status.
-- **Case Management** — support case tracking for issues like delayed shipping and unprocessed refunds, including priority flagging and cross-sell linkage.
-
----
-
 ## 🛠️ Tools & Technologies
 
 `Power BI` · `DAX` · `Power Query` · `Salesforce CRM` · `Mockaroo` (synthetic data generation) · `Star Schema Data Modelling`
